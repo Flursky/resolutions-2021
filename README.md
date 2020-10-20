@@ -3,3 +3,6 @@
 </div>
 
 ## Implementing papers 👨🏻‍💻 ![](https://img.shields.io/badge/progress-0%25-green.svg) ![License](https://img.shields.io/github/license/flursky/resolutions-2021.svg?color=blue&style=plastic)
+
+
+## Learn a new programming language (Elixir) 💻
