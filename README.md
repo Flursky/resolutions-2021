@@ -2,9 +2,7 @@
   <img src="year-goals-list-2021.jpg">
 </div>
 
-## Implementing papers 👨🏻‍💻 ![](https://img.shields.io/badge/progress-0%25-green.svg) ![License](https://img.shields.io/github/license/flursky/resolutions-2021.svg?color=blue&style=plastic)
-
-This year my resolution is that I will implement at least 50 deep learning papers.
+## Implementing papers 👨🏻‍💻 ![](https://img.shields.io/badge/progress-2%25-green.svg) ![License](https://img.shields.io/github/license/flursky/resolutions-2021.svg?color=blue&style=plastic)
 
 1. ### Computer Vision
   - [A. ImageNet Classification with Deep Convolutional Neural Networks (Alexnet)](http://example.org/)
@@ -14,6 +12,9 @@ This year my resolution is that I will implement at least 50 deep learning paper
 2. ### NLP
 
 3. ### Graph Neural Network
+  - [A. DeepWalk: Online Learning of Social Representations]()
+  - [B. Node2Vec: Scalable Feature Learning for Networks]()
+  - [C. LINE: Large-scale Information Network Embedding]()
 
 ## Learn a new programming language (Elixir) 💻 ![](https://img.shields.io/badge/progress-0%25-red.svg)
 
