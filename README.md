@@ -9,7 +9,10 @@
   - [B. Going Deeper with Convolutions (Inception)](http://example.org/)
   - [C. Deep Residual Learning for Image Recognition (ResNet)](http://example.org/)
   - [D. You Only Look Once: Unified, Real-Time Object Detection (YOLO)](http://example.org/)
+
 2. ### NLP
+  - [1. Distributed Representations of Words and Phrases
+and their Compositionality (Skip-Gram)](http://example.org/)
 
 3. ### Graph Neural Network
   - [A. DeepWalk: Online Learning of Social Representations]()
