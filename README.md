@@ -15,7 +15,7 @@
 and their Compositionality (Skip-Gram)](http://example.org/)
 
 3. ### Graph Neural Network
-  - [A. DeepWalk: Online Learning of Social Representations]()
+  - [A. DeepWalk: Online Learning of Social Representations](https://github.com/Flursky/deepwalk)
   - [B. Node2Vec: Scalable Feature Learning for Networks]()
   - [C. LINE: Large-scale Information Network Embedding]()
 
