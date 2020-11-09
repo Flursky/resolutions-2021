@@ -31,3 +31,6 @@
 - [1. Optimization methods for deep learning](http://example.org/)
 - [2. Linear Algebra](http://example.org/)
 - [3. Calculus for Deep Learning](http://example.org/)
+
+## Courses to complete 
+- [1. MIT: Introduction to Machine Learning](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.036+1T2019/course/)
