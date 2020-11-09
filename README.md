@@ -34,3 +34,6 @@
 
 ## Courses to complete 
 - [1. MIT: Introduction to Machine Learning](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.036+1T2019/course/)
+
+## Applications ![](https://img.shields.io/badge/progress-0%25-purple.svg)
+- [1. Android App: Take selfie when the person smiles]()
