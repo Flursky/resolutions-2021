@@ -8,7 +8,9 @@
   - [1. ImageNet Classification with Deep Convolutional Neural Networks (Alexnet)](https://github.com/Flursky/deeplearning-cv/tree/main/alexnet)
   - [2. Going Deeper with Convolutions (Inception)](http://example.org/)
   - [3. Deep Residual Learning for Image Recognition (ResNet)](http://example.org/)
-  - [4. Selective search for Object Detection](http://example.org/)
+  - [4. Selective Search for Object Detection](http://example.org/)
+  - [5. R-CNN: CNN with Regions](http://example.org/)
+  - [6. Efficient Graph-Based Image Segmentation](http://example.org/)
 
 2. ### NLP
   - [1. Distributed Representations of Words and Phrases and their Compositionality (Skip-Gram)](https://github.com/Flursky/skip-gram)
