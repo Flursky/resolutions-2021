@@ -11,8 +11,7 @@
   - [D. You Only Look Once: Unified, Real-Time Object Detection (YOLO)](http://example.org/)
 
 2. ### NLP
-  - [1. Distributed Representations of Words and Phrases
-and their Compositionality (Skip-Gram)](http://example.org/)
+  - [1. Distributed Representations of Words and Phrases and their Compositionality (Skip-Gram)](https://github.com/Flursky/skip-gram)
 
 3. ### Graph Neural Network
   - [A. DeepWalk: Online Learning of Social Representations](https://github.com/Flursky/deepwalk)
