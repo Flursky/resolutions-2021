@@ -20,20 +20,11 @@
   - [2. Node2Vec: Scalable Feature Learning for Networks]()
   - [3. LINE: Large-scale Information Network Embedding]()
 
-## Learn a new programming language (Elixir) 💻 ![](https://img.shields.io/badge/progress-0%25-red.svg)
-
-- [1. Elixir Basics](http://example.org/)
-- [2. Chat Application](http://example.org/)
-- [3. Discord Bot](http://example.org/)
-
 ## Learn more mathematics ![](https://img.shields.io/badge/progress-0%25-blue.svg)
 
 - [1. Optimization methods for deep learning](http://example.org/)
 - [2. Linear Algebra](http://example.org/)
 - [3. Calculus for Deep Learning](http://example.org/)
-
-## Courses ![](https://img.shields.io/badge/progress-0%25-yellow.svg) 
-- [1. MIT: Introduction to Machine Learning](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.036+1T2019/course/)
 
 ## Applications ![](https://img.shields.io/badge/progress-0%25-purple.svg)
 - [1. Android App: Take selfie when the person smiles]()
